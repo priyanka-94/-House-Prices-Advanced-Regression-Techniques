@@ -1,2 +1,4 @@
 # -House-Prices-Advanced-Regression-Techniques
 Ask a home buyer to describe their dream house, and they probably won't begin with the height of the basement ceiling or the proximity to an east-west railroad. But this playground competition's dataset proves that much more influences price negotiations than the number of bedrooms or a white-picket fence.  With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home.
+I did this by using different types of algorithms like "Decision tree", "Random Forest", "MARS (forward,backward and crossvalidation) and also XGBoost algorithm. 
+I got best result from ""Decision tree" & "Random Forest". The prediction was submitted on Kaggle with 0.53914 as the Score.
